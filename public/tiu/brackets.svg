@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 180" enable-background="new 0 0 200 180" xml:space="preserve">
+<g id="brackets">
+	<path id="brackets_x5F_shadow" fill="#115A91" d="M155,123c0,12.1-9.9,22-22,22H67c-12.1,0-22-9.9-22-22V57c0-12.1,9.9-22,22-22h66
+		c12.1,0,22,9.9,22,22V123z"/>
+	<path id="brackets_x5F_inner" fill="#FFFFFF" d="M133,47.1c5.5,0,9.9,4.4,9.9,9.9v55c0,5.5-4.4,9.9-9.9,9.9H67
+		c-5.5,0-9.9-4.4-9.9-9.9V57c0-5.5,4.4-9.9,9.9-9.9L133,47.1"/>
+	
+		<linearGradient id="brackets_x5F_outer_1_" gradientUnits="userSpaceOnUse" x1="1.0396" y1="180.9849" x2="1.0396" y2="180.9409" gradientTransform="matrix(2500 0 0 -2250 -2499 407251)">
+		<stop  offset="0" style="stop-color:#29ABE2"/>
+		<stop  offset="0.4757" style="stop-color:#28A9E1"/>
+		<stop  offset="0.6639" style="stop-color:#23A2DC"/>
+		<stop  offset="0.8012" style="stop-color:#1A96D4"/>
+		<stop  offset="0.913" style="stop-color:#0E85C9"/>
+		<stop  offset="1" style="stop-color:#0071BC"/>
+	</linearGradient>
+	<path id="brackets_x5F_outer" fill="url(#brackets_x5F_outer_1_)" d="M133,47.1c5.5,0,9.9,4.4,9.9,9.9v55c0,5.5-4.4,9.9-9.9,9.9H67
+		c-5.5,0-9.9-4.4-9.9-9.9V57c0-5.5,4.4-9.9,9.9-9.9L133,47.1L133,47.1z M133,35H67c-12.1,0-22,9.9-22,22v55c0,12.1,9.9,22,22,22h66
+		c12.1,0,22-9.9,22-22V57C155,44.9,145.1,35,133,35z"/>
+	<g id="brackets_x5F_bracket">
+		<path id="brackets_x5F_bracket_x5F_right" fill="#4D4D4D" d="M130.8,58.1v52.8h-27.5V97.7h15.4V70.2h-15.4V58.1H130.8z"/>
+		<path id="brackets_x5F_braclet_x5F_left" fill="#4D4D4D" d="M96.7,58.1v12.1H81.3v27.5h15.4v13.2H69.2V58.1H96.7z"/>
+	</g>
+</g>
+</svg>
