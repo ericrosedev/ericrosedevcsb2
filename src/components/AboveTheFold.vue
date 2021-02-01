@@ -138,7 +138,6 @@
 <script>
 import * as zdog from "zdog";
 import VueScreenSize from "vue-screen-size";
-import axios from 'axios';
 export default {
   name: "AboveTheFold",
   props: {
@@ -171,11 +170,6 @@ export default {
   },
   mounted() {
     this.isMounted = true;
-
-    // codepen axios call
-    // axios
-    //   .get('https://api.coindesk.com/v1/bpi/currentprice.json')
-    //   .then(response => (this.info = response))
 
     // timeout function for atf is waiting
     setTimeout(() => {
