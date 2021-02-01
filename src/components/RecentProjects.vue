@@ -6,31 +6,31 @@
 
         .project(class="cyj")
           a(href="https://codepen.io/ericrosedev/full/eYdoXbV" target="_blank")
-            img(src="rp/cyj.gif")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/14980334/media/92484fdf23c8efa118cce90bf3ec10f3.gif")
 
         .project(class="magm")
           a(href="https://codepen.io/ericrosedev/full/abmMVxx" target="_blank")
-            img(src="rp/mm.gif")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/14971299/media/f2c89878d06dcc2bc93018e8c4f50e76.gif")
 
         .project(class="revrec")
           a(href="https://codepen.io/ericrosedev/full/abmryOR" target="_blank")
-            img(src="rp/rr.gif")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/14990444/media/25ec03c16ab2f4ab8beb5cc17b0dedbc.gif")
 
         .project(class="dilis")
           a(href="https://codepen.io/ericrosedev/full/ZEpqjOZ" target="_blank")
-            img(src="rp/dilis.gif")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/14947335/media/c6e289bc43c804800cb2e40bf8b0c74a.gif")
 
         .project(class="pgmc")
           a(href="https://codepen.io/ericrosedev/full/vYXpwwo" target="_blank")
-            img(src="rp/pgmc.gif")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/14851576/media/2c5edf5cdc7070fc1ff571a41a4b1570.gif")
 
         .project(class="ajttbc")
           a(href="https://codepen.io/ericrosedev/full/KKgyGMa" target="_blank")
-            img(src="rp/ajttbc.png")
+            img(src="https://l10iz.csb.app/nar3.png")
 
         .project(class="spisc")
           a(href="https://codepen.io/ericrosedev/full/yLaxXGe" target="_blank")
-            img(src="rp/spisc.png")
+            img(src="https://l10iz.csb.app/snow2.png")
 
   .armbg
 </template>
