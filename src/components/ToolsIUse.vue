@@ -134,11 +134,16 @@ export default {
 
   @media (max-width: 400px){
     height: 300px !important;
+    margin-top: 2rem;
   }
 
   .arm {
 
     .content {
+
+      @media (max-width: 400px){
+        transform: rotate(10deg);
+      }
 
       .items {
         position: relative;

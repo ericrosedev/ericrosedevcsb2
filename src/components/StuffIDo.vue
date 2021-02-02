@@ -96,6 +96,10 @@ export default {
 
     .content {
 
+      @media (max-width: 400px){
+        transform: rotate(-10deg);
+      }
+
       .items {
         position: relative;
         flex-wrap: nowrap;
