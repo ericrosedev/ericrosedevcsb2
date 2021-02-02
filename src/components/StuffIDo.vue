@@ -175,7 +175,7 @@ export default {
     }
 
     @media (max-width: 400px){
-      left: 1rem;
+      left: 2rem;
       top: 29px;
     }
   }
