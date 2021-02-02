@@ -53,7 +53,7 @@ export default {
     }
   }
   .arm::after {
-    content: 'Yell At Me';
+    content: 'Holler At Me';
     position: absolute;
     top: 16px;
     left: 48px;
