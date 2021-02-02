@@ -195,7 +195,7 @@ export default {
     }
   }
   .arm::after {
-    content: '🔨Tools I Use';
+    content: 'Tools I Use';
     position: absolute;
     top: 16px;
     right: 48px;

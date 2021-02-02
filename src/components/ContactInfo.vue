@@ -24,7 +24,7 @@ export default {
     height: 100%;
 
     a.email {
-      font-size: 78px;
+      font-size: 64px;
       color: #8ac897;
       margin-top: 3rem;
 
@@ -33,7 +33,7 @@ export default {
       }
 
       @media (max-width: 400px){
-        font-size: 10vw;
+        font-size: 8vw;
       }
     }
 
@@ -51,7 +51,7 @@ export default {
     }
   }
   .arm::after {
-    content: 'Yell At Me🗣️';
+    content: 'Yell At Me';
     position: absolute;
     top: 16px;
     left: 48px;

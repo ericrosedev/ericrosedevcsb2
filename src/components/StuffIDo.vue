@@ -151,7 +151,7 @@ export default {
     }
   }
   .arm::after {
-    content: 'Stuff I Do🎆';
+    content: 'Stuff I Do';
     position: absolute;
     top: 16px;
     left: 48px;
