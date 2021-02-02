@@ -178,6 +178,7 @@ export default {
       left: 2rem;
       top: 38px;
       transform: rotate(8deg);
+      width: 100%;
     }
   }
 
