@@ -31,6 +31,7 @@ export default {
       font-size: 64px;
       color: #8ac897;
       margin-top: 3rem;
+      transform: rotate(-3deg);
 
       @media (max-width: 720px){
         font-size: 46px;
