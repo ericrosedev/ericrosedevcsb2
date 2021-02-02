@@ -221,7 +221,8 @@ export default {
 
     @media (max-width: 400px){
       right: 2rem;
-      top: 29px;
+      top: 38px;
+      transform: rotate(-8deg);
     }
   }
 
