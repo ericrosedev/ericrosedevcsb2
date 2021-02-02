@@ -143,6 +143,10 @@ export default {
           padding-left: 3rem;
           transform: rotate(-11deg);
 
+          .desc {
+            color: #8ac897;
+          }
+
           @media (max-width: 400px){
             padding: 0;
           }
