@@ -39,7 +39,7 @@
 
         .item
           img(src="https://twxuu.csb.app/vue.svg")
-          .desc FE Frameworks
+          .desc Frontend Frameworks
 
         .item
           img(src="https://twxuu.csb.app/cssf.svg")
