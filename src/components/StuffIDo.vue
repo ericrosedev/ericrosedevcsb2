@@ -88,6 +88,10 @@ export default {
 @import "../scss/_scss.scss";
 .sid {
 
+  @media (max-width: 400px){
+    height: 300px !important;
+  }
+
   .arm {
 
     .content {
@@ -97,12 +101,20 @@ export default {
         flex-wrap: nowrap;
         align-items: baseline;
         padding: 0 5rem 0 0 !important;
-
+        
+        @media (max-width: 400px){
+          padding: 0 2.5rem 0 0 !important;
+        }
+          
         .item {
           @include dflex-col;
           height: 100%;
           margin-left: 3rem;
           transition: all 0.1s;
+
+          @media (max-width: 400px){
+            margin-top: 1.5rem;
+          }
 
           img {
             width: 120px;
@@ -130,6 +142,10 @@ export default {
         .item:last-of-type {
           padding-left: 3rem;
           transform: rotate(-11deg);
+
+          @media (max-width: 400px){
+            padding: 0;
+          }
         }
       }
     }
@@ -143,6 +159,7 @@ export default {
     color: #8ac897;
     transform: rotate(-3deg);
     transition: all 0.5s;
+    white-space: nowrap;
 
     @media (max-width: 1120px){
       font-size: 48px;
@@ -151,6 +168,7 @@ export default {
 
     @media (max-width: 400px){
       left: 1rem;
+      top: 29px;
     }
   }
 

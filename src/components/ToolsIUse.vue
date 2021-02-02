@@ -132,6 +132,10 @@ export default {
 @import "../scss/_scss.scss";
 .tiu {
 
+  @media (max-width: 400px){
+    height: 300px !important;
+  }
+
   .arm {
 
     .content {
@@ -142,11 +146,19 @@ export default {
         align-items: baseline;
         padding: 0 0 0 5rem !important;
 
+        @media (max-width: 400px){
+          padding: 0 0 0 2.5rem !important;
+        }
+
         .item {
           @include dflex-col;
           height: 100%;
           margin-right: 3rem;
           transition: all 0.1s;
+
+          @media (max-width: 400px){
+            margin-top: 1.5rem;
+          }
 
           img {
             width: 120px;
@@ -174,6 +186,10 @@ export default {
         .item:last-of-type {
           padding-right: 3rem;
           transform: rotate(-11deg);
+
+          @media (max-width: 400px){
+            padding: 0;
+          }
         }
       }
     }
@@ -187,6 +203,7 @@ export default {
     color: #8ac897;
     transform: rotate(3deg);
     transition: all 0.5;
+    white-space: nowrap;
 
     @media (max-width: 1120px){
       font-size: 48px;
@@ -195,6 +212,7 @@ export default {
 
     @media (max-width: 400px){
       right: 1rem;
+      top: 29px;
     }
   }
 
