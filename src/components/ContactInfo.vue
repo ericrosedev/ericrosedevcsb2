@@ -53,7 +53,7 @@ export default {
     }
   }
   .arm::after {
-    content: 'Holler At Me';
+    content: 'Contact';
     position: absolute;
     top: 16px;
     left: 48px;
