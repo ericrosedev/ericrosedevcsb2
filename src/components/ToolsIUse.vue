@@ -150,6 +150,13 @@ export default {
 
           img {
             width: 120px;
+
+            @media (max-width: 1120px){
+              max-width: 80px;
+            }
+            @media (max-width: 400px){
+              max-width: 50px;
+            }
           }
           img.raster {
             width: 60px;
@@ -174,9 +181,26 @@ export default {
       }
     }
   }
+  .arm::after {
+    content: 'Tools I Use';
+    position: absolute;
+    top: 16px;
+    right: 48px;
+    font-size: 78px;
+    color: #8ac897;
+    transform: rotate(3deg);
+    transition: all 0.5;
 
-  @media (max-width: 400px){
-    
+    @media (max-width: 1120px){
+      font-size: 48px;
+      top: 49px;
+    }
+
+    @media (max-width: 400px){
+      font-size: 32px;
+      right: 1rem;
+      top: 65px;
+    }
   }
 
 }

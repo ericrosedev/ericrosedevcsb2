@@ -4,7 +4,7 @@
     .content
       .items
         .title
-          span Recent Tweets
+          span Some Tweets
         Timeline(:options="{ tweetLimit: '10', theme: 'light'}" class="ttimeline" id="ericrosedev" sourceType="profile")
           | loading..
   .armbg
