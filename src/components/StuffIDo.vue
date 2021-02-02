@@ -38,10 +38,6 @@
           .desc Javascript
 
         .item
-          img(src="https://twxuu.csb.app/vue.svg")
-          .desc Frontend Frameworks
-
-        .item
           img(src="https://twxuu.csb.app/cssf.svg")
           .desc Flexbox
 
