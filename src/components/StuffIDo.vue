@@ -110,10 +110,6 @@ export default {
             @media (max-width: 1120px){
               max-width: 80px;
             }
-
-            @media (max-width: 400px){
-              max-width: 50px;
-            }
           }
           img.raster {
             width: 60px;
@@ -154,9 +150,7 @@ export default {
     }
 
     @media (max-width: 400px){
-      font-size: 32px;
       left: 1rem;
-      top: 65px;
     }
   }
 
