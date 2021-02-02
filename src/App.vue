@@ -37,13 +37,14 @@ export default {
     ContactInfo,
   },
   metaInfo: {
+    title: "ericrose.dev",
     meta: [
       { charset: "utf-8" },
       {
-        name: "viewport",
-        content: "width=device-width, initial-scale=0.8",
-        userScalable: "no",
+        name: "description",
+        content: "Recent stuff, stuff I do, tools I use, and other stuff",
       },
+      { name: "viewport", content: "width=device-width, initial-scale=0.8", userScalable: "no" },
     ],
   },
 };
