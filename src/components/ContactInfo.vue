@@ -19,10 +19,6 @@ export default {
 @import "../scss/_scss.scss";
 .contact {
 
-  @media (max-width: 400px){
-    margin-top: 2rem;
-  }
-
   .emailcont {
     @include dflex-row;
     height: 100%;

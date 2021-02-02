@@ -134,7 +134,6 @@ export default {
 
   @media (max-width: 400px){
     height: 300px !important;
-    margin-top: 2rem;
   }
 
   .arm {
