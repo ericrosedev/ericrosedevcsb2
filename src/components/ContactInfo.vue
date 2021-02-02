@@ -74,6 +74,7 @@ export default {
     @media (max-width: 400px){
       left: 1rem;
       top: 29px;
+      width: 100%;
     }
   }
 
