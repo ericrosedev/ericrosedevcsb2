@@ -83,6 +83,11 @@ export default {
   .arm {
     transform: translateX(100vw);
   }
+  @media (max-width: 400px){
+    .arm {
+      transform: translateX(00vw);
+    }
+  }
 }
 .recentTweets.view-in--gt-third {
   .arm {

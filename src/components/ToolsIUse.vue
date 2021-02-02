@@ -195,7 +195,7 @@ export default {
     }
   }
   .arm::after {
-    content: 'Tools I Use';
+    content: '🔨Tools I Use';
     position: absolute;
     top: 16px;
     right: 48px;
@@ -219,7 +219,7 @@ export default {
 }
 .tiu.view-in {
   .arm {
-    transform: translateX(100vw);
+    transform: translateX(0vw);
   }
 }
 .tiu.view-in--gt-third {
