@@ -34,10 +34,6 @@
           .desc CSS3
 
         .item
-          img(src="https://twxuu.csb.app/js.svg")
-          .desc Javascript
-
-        .item
           img(src="https://twxuu.csb.app/cssf.svg")
           .desc Flexbox
 
@@ -48,6 +44,10 @@
         .item
           img(src="https://twxuu.csb.app/csstt_animated.svg")
           .desc Animation
+
+        .item
+          img(src="https://twxuu.csb.app/js.svg")
+          .desc Javascript
 
         .item
           img(src="https://twxuu.csb.app/logo.svg")
