@@ -35,6 +35,7 @@ export default {
 
       @media (max-width: 400px){
         font-size: 8vw;
+        transform: rotate(11deg);
       }
     }
 
@@ -69,8 +70,9 @@ export default {
 
     @media (max-width: 400px){
       left: 1rem;
-      top: 29px;
+      top: 38px;
       width: 100%;
+      transform: rotate(11deg);
     }
   }
 
