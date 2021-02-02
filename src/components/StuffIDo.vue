@@ -97,7 +97,7 @@ export default {
     .content {
 
       @media (max-width: 400px){
-        transform: rotate(-10deg);
+        transform: rotate(8deg);
       }
 
       .items {
