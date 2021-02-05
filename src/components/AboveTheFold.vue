@@ -132,7 +132,23 @@
 
     .subintro(:class="{ animate: isMounted }") {{subintro}}
 
-    .subsubintro(:class="{ animate: isMounted }") {{subsubintro}}
+    .subsubintro(:class="{ animate: isMounted }")
+      | I like making things on the internet for people to enjoy. I’ve been doing this since 2013, before that I was an intelligence analyst in the military and an intelligence instructor for the department of defense. I love science fiction novels 
+      a(href="http://www.thehugoawards.org/" target="_blank") 📚 
+      | and short stories 
+      a(href="https://www.asimovs.com/" target="_blank") 📘
+      a(href="https://www.analogsf.com/" target="_blank") 📕
+      |, running 
+      a(href="https://www.strava.com/" target="_blank") 🏃‍♂️, 
+      | maps 
+      a(href="https://www.reddit.com/r/MapPorn/" target="_blank") 🗺️, 
+      | boats 
+      a(href="https://i.imgflip.com/4wvl8n.jpg" target="_blank") 🛥️, 
+      | coffee 
+      a(href="https://www.traderjoes.com/digin/tag/Coffee/" target="_blank") ☕, 
+      | and taking Dakota 
+      a(href="https://i.imgur.com/1DDsloF.png" target="_blank") 🐕 
+      | to the dog park.
 </template>
 
 <script>
@@ -147,8 +163,7 @@ export default {
     menutext: String,
     introOne: String,
     introTwo: String,
-    subintro: String,
-    subsubintro: String
+    subintro: String
   },
   data() {
     return {
@@ -1086,6 +1101,10 @@ export default {
 
       @media(max-width: 1120px){
         display: none;
+      }
+
+      a {
+        text-decoration: none;
       }
     }
     .subsubintro.animate {

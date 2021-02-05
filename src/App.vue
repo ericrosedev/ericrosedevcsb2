@@ -8,7 +8,6 @@
       introOne="Hi,"
       introTwo="I'm Eric"
       subintro="I’m a web designer and developer."
-      subsubintro="I like making things on the internet for people to enjoy. I’ve been doing this since 2013, before that I was an intelligence analyst in the military and an intelligence instructor for the department of defense. I love science fiction novels 📚 and short stories 📘📕 , running 🏃‍♂️, maps 🗺️, boats 🛥️, coffee ☕, and taking Dakota 🐕 to the dog park."
     />
     <RecentProjects />
     <RecentTweets />
