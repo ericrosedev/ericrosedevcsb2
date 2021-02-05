@@ -26,11 +26,11 @@
 
         .project(class="ajttbc")
           a(href="https://codepen.io/ericrosedev/full/KKgyGMa" target="_blank")
-            img(src="https://l10iz.csb.app/nar3.png")
+            img(src="https://assets.codepen.io/5422341/journey.png")
 
         .project(class="spisc")
           a(href="https://codepen.io/ericrosedev/full/yLaxXGe" target="_blank")
-            img(src="https://l10iz.csb.app/snow2.png")
+            img(src="https://assets.codepen.io/5422341/snowman.png")
 
   .armbg
 </template>
