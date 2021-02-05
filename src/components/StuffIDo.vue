@@ -6,67 +6,67 @@
       //-   span Stuff I Do
       .items
         .item
-          img(src="https://twxuu.csb.app/lightbulb_animated.svg")
+          img(src="https://l10iz.csb.app/sid/lightbulb_animated.svg")
           .desc Ideation
 
         .item
-          img(src="https://twxuu.csb.app/wireframe_animated.svg")
+          img(src="https://l10iz.csb.app/sid/wireframe_animated.svg")
           .desc Wireframing
 
         .item
-          img(src="https://twxuu.csb.app/mock_animated.svg")
+          img(src="https://l10iz.csb.app/sid/mock_animated.svg")
           .desc Mocking
 
         .item
-          img(src="https://twxuu.csb.app/rapidproto_animated.svg")
+          img(src="https://l10iz.csb.app/sid/rapidproto_animated.svg")
           .desc Rapid Prototyping
 
         .item
-          img(src="https://twxuu.csb.app/generalui_animated.svg")
+          img(src="https://l10iz.csb.app/sid/generalui_animated.svg")
           .desc UI/UX/IA/IXD
 
         .item
-          img(src="https://twxuu.csb.app/html5.svg")
+          img(src="https://l10iz.csb.app/sid/html5.svg")
           .desc HTML5
 
         .item
-          img(src="https://twxuu.csb.app/css3.svg")
+          img(src="https://l10iz.csb.app/sid/css3.svg")
           .desc CSS3
 
-        .item
-          img(src="https://twxuu.csb.app/cssf.svg")
-          .desc Flexbox
+        //- .item
+        //-   img(src="https://l10iz.csb.app/sid/cssf.svg")
+        //-   .desc Flexbox
+
+        //- .item
+        //-   img(src="https://l10iz.csb.app/sid/cssg.svg")
+        //-   .desc Grid
+
+        //- .item
+        //-   img(src="https://l10iz.csb.app/sid/csstt_animated.svg")
+        //-   .desc Animation
 
         .item
-          img(src="https://twxuu.csb.app/cssg.svg")
-          .desc Grid
-
-        .item
-          img(src="https://twxuu.csb.app/csstt_animated.svg")
-          .desc Animation
-
-        .item
-          img(src="https://twxuu.csb.app/js.svg")
+          img(src="https://l10iz.csb.app/sid/js.svg")
           .desc Javascript
 
         .item
-          img(src="https://twxuu.csb.app/logo.svg")
+          img(src="https://l10iz.csb.app/sid/logo.svg")
           .desc Logo Design
 
         .item
-          img(src="https://twxuu.csb.app/emaildesign_animated.svg")
+          img(src="https://l10iz.csb.app/sid/emaildesign_animated.svg")
           .desc Email Design
 
         .item
-          img(src="https://twxuu.csb.app/responsivedesign_animated.svg")
+          img(src="https://l10iz.csb.app/sid/responsivedesign_animated.svg")
           .desc Responsive Layouts
 
         .item
-          img(src="https://twxuu.csb.app/versioncontrol_animated.svg")
+          img(src="https://l10iz.csb.app/sid/versioncontrol_animated.svg")
           .desc Version Control
 
         .item
-          img(src="https://twxuu.csb.app/cicd_animated.svg")
+          img(src="https://l10iz.csb.app/sid/cicd_animated.svg")
           .desc CI/CD
 
         .item

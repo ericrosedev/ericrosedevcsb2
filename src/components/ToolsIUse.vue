@@ -6,114 +6,102 @@
       //-   span Stuff I Do
       .items
         .item
-          img(src="https://twxuu.csb.app/windows.svg")
+          img(src="https://l10iz.csb.app/tiu/windows.svg")
           .desc Windows
 
         .item
-          img(src="https://twxuu.csb.app/apple.svg")
+          img(src="https://l10iz.csb.app/tiu/apple.svg")
           .desc Mac
 
         .item
-          img(src="https://twxuu.csb.app/photoshop.svg")
+          img(src="https://l10iz.csb.app/tiu/photoshop.svg")
           .desc Photoshop
 
         .item
-          img(src="https://twxuu.csb.app/illustrator.svg")
+          img(src="https://l10iz.csb.app/tiu/illustrator.svg")
           .desc Illustrator
 
         .item
-          img(src="https://twxuu.csb.app/xd.svg")
+          img(src="https://l10iz.csb.app/tiu/xd.svg")
           .desc XD
 
         .item
-          img(src="https://twxuu.csb.app/aftereffects.svg")
-          .desc AE
-
-        .item
-          img(src="https://twxuu.csb.app/premiere.svg")
-          .desc Premiere
-
-        .item
-          img(src="https://twxuu.csb.app/vscode.svg")
+          img(src="https://l10iz.csb.app/tiu/vscode.svg")
           .desc VS Code
 
         .item
-          img(src="https://twxuu.csb.app/brackets.svg")
+          img(src="https://l10iz.csb.app/tiu/brackets.svg")
           .desc Brackets
 
         .item
-          img(src="https://twxuu.csb.app/sass.svg")
+          img(src="https://l10iz.csb.app/tiu/sass.svg")
           .desc SASS/SCSS
 
         .item
-          img(src="https://twxuu.csb.app/vue.svg")
+          img(src="https://l10iz.csb.app/tiu/vue.svg")
           .desc Vue
 
         .item
-          img(src="https://twxuu.csb.app/bootstrap.svg")
+          img(src="https://l10iz.csb.app/tiu/bootstrap.svg")
           .desc Bootstrap
 
-        .item
-          img(src="https://twxuu.csb.app/jquery.svg")
-          .desc jQuery
+        //- .item
+        //-   img(src="https://l10iz.csb.app/tiu/jquery.svg")
+        //-   .desc jQuery
 
         .item
-          img(src="https://twxuu.csb.app/mjml.svg")
+          img(src="https://l10iz.csb.app/tiu/mjml.svg")
           .desc MJML
 
         .item
-          img(src="https://twxuu.csb.app/svgator.svg")
+          img(src="https://l10iz.csb.app/tiu/svgator.svg")
           .desc SVGator
 
         .item
-          img(src="https://twxuu.csb.app/node.svg")
-          .desc Node
-
-        .item
-          img(src="https://twxuu.csb.app/three.svg")
+          img(src="https://l10iz.csb.app/tiu/three.svg")
           .desc ThreeJS
         .item
-          img(src="https://twxuu.csb.app/maya.svg")
+          img(src="https://l10iz.csb.app/tiu/maya.svg")
           .desc Maya
 
-        .item
-          img(src="https://twxuu.csb.app/tinypng.svg")
-          .desc TinyPNG
+        //- .item
+        //-   img(src="https://l10iz.csb.app/tiu/tinypng.svg")
+        //-   .desc TinyPNG
+
+        //- .item
+        //-   img(src="https://l10iz.csb.app/tiu/svgomg.svg")
+        //-   .desc SVGOMG
 
         .item
-          img(src="https://twxuu.csb.app/svgomg.svg")
-          .desc SVGOMG
-
-        .item
-          img(src="https://twxuu.csb.app/fontawesome.svg")
+          img(src="https://l10iz.csb.app/tiu/fontawesome.svg")
           .desc FontAwesome
 
         .item
-          img(src="https://twxuu.csb.app/responsively.svg")
+          img(src="https://l10iz.csb.app/tiu/responsively.svg")
           .desc Responsively
 
         .item
-          img(src="https://twxuu.csb.app/codepen.svg")
+          img(src="https://l10iz.csb.app/tiu/codepen.svg")
           .desc CodePen
 
         .item
-          img(src="https://twxuu.csb.app/codesandbox.svg")
+          img(src="https://l10iz.csb.app/tiu/codesandbox.svg")
           .desc Codesandbox
 
         .item
-          img(src="https://twxuu.csb.app/chrome.svg")
+          img(src="https://l10iz.csb.app/tiu/chrome.svg")
           .desc Chrome
 
         .item
-          img(src="https://twxuu.csb.app/firefox.svg")
+          img(src="https://l10iz.csb.app/tiu/firefox.svg")
           .desc Firefox
 
         .item
-          img(src="https://twxuu.csb.app/safari.svg")
+          img(src="https://l10iz.csb.app/tiu/safari.svg")
           .desc Safari
 
         .item
-          img(src="https://twxuu.csb.app/edge.svg")
+          img(src="https://l10iz.csb.app/tiu/edge.svg")
           .desc Edge
 
         .item
