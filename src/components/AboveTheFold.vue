@@ -126,7 +126,8 @@
 
     .intro(:class="{ animate: isMounted, shineIntro:threeDeeHover }")
       span.i1
-        | {{introOne}}&nbsp;
+        | {{introOne}}
+      | &nbsp;
       span.i2
         | {{introTwo}}
 
