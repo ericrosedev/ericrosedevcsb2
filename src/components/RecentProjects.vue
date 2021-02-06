@@ -4,6 +4,10 @@
     .content
       .items
 
+        .project(class="ror")
+          a(href="https://codepen.io/ericrosedev/full/WNorpRd" target="_blank")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/15077083/media/cbaad2898f2c684cbd2a9df556540781.gif")
+
         .project(class="cyj")
           a(href="https://codepen.io/ericrosedev/full/eYdoXbV" target="_blank")
             img(src="https://cdn.dribbble.com/users/6661484/screenshots/14980334/media/92484fdf23c8efa118cce90bf3ec10f3.gif")
@@ -71,6 +75,16 @@ export default {
 
       &:hover::after {
         transform: rotate(-3deg);
+      }
+    }
+
+    &.ror {
+      a::after {
+        content: '🎈 Rise or raze';
+        position: absolute;
+        left: 0;
+        color: #8ac897;
+        width: 100%;
       }
     }
 
