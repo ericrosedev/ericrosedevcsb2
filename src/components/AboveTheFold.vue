@@ -126,9 +126,9 @@
 
     .intro(:class="{ animate: isMounted, shineIntro:threeDeeHover }")
       span.i1
-        | {{introOne}}
+        | {{introOne}}&nbsp;
       span.i2
-        | &nbsp;{{introTwo}}
+        | {{introTwo}}
 
     .subintro(:class="{ animate: isMounted }") {{subintro}}
 
