@@ -437,7 +437,7 @@ export default {
 
     .upper-left {
       position: absolute;
-      top: 6.75rem;
+      top: 5rem;
       left: 4rem;
       transition: all 0.5s;
       transform: rotate(-5deg);
