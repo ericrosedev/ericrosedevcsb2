@@ -4,6 +4,10 @@
     .content
       .items
 
+        .project(class="sio")
+          a(href="https://codepen.io/ericrosedev/full/XWNaNwg" target="_blank")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/15157482/media/aef9d21f5767db596893a43187b32127.gif")
+
         .project(class="ror")
           a(href="https://codepen.io/ericrosedev/full/WNorpRd" target="_blank")
             img(src="https://cdn.dribbble.com/users/6661484/screenshots/15077083/media/cbaad2898f2c684cbd2a9df556540781.gif")
@@ -75,6 +79,16 @@ export default {
 
       &:hover::after {
         transform: rotate(-3deg);
+      }
+    }
+
+    &.sio {
+      a::after {
+        content: '📄 Smooth it over';
+        position: absolute;
+        left: 0;
+        color: #8ac897;
+        width: 100%;
       }
     }
 
