@@ -4,6 +4,10 @@
     .content
       .items
 
+      .project(class="grurple")
+          a(href="https://codepen.io/ericrosedev/full/MWbGjRb" target="_blank")
+            img(src="https://cdn.dribbble.com/users/6661484/screenshots/15217016/media/f315d2fd58f2cb2c3e81b7754f74b1c6.gif")
+
         .project(class="sio")
           a(href="https://codepen.io/ericrosedev/full/XWNaNwg" target="_blank")
             img(src="https://cdn.dribbble.com/users/6661484/screenshots/15157482/media/aef9d21f5767db596893a43187b32127.gif")
@@ -79,6 +83,16 @@ export default {
 
       &:hover::after {
         transform: rotate(-3deg);
+      }
+    }
+
+    &.grurple {
+      a::after {
+        content: '🟢🟣 Grurple power';
+        position: absolute;
+        left: 0;
+        color: #8ac897;
+        width: 100%;
       }
     }
 
